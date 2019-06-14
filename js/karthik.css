@@ -1,0 +1,10 @@
+.first{
+    height:100px;
+    width:100%;
+    border:2px solid black;
+}
+.second{
+    height:500%;
+    width:100%;
+    border:2px solidd blueviolet;
+}
